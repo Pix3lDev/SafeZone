@@ -1,0 +1,6 @@
+name: SafeZone
+version: '${project.version}'
+main: de.pixel.safezone.SafeZone
+api-version: 1.16
+authors: [ Pixel ]
+description: A lightweight plugin that let you add zones to your world and set different flags for the zone.
